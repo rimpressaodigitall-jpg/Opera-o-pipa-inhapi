@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1B4382</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#D8E2FF</color>
+    <color name="on_primary_container">#001A41</color>
+    <color name="secondary">#3C8DBC</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="tertiary">#4DA3B8</color>
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="status_pending">#F59E0B</color>
+    <color name="status_in_route">#3B82F6</color>
+    <color name="status_delivered">#10B981</color>
+    <color name="ic_launcher_bg_start">#1B4382</color>
+    <color name="ic_launcher_bg_end">#0D254C</color>
+</resources>

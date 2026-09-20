@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Remix Operação Pipa</string>
+    <string name="admin_title">Administração</string>
+    <string name="driver_title">Painel do Motorista</string>
+    <string name="deliveries_tab">Entregas</string>
+    <string name="map_tab">Mapa</string>
+    <string name="cadastros_tab">Cadastros</string>
+    <string name="desempenho_tab">Desempenho</string>
+    <string name="config_tab">Ajustes</string>
+</resources>
